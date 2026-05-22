@@ -1,0 +1,17 @@
+{
+  "name": "day-04-env-file",
+  "version": "1.0.0",
+  "description": "Environment variables (.env) in Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["env", "environment", "dotenv"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.0.3"
+  }
+}
