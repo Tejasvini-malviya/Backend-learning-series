@@ -1,0 +1,19 @@
+{
+  "name": "day-05-middleware",
+  "version": "1.0.0",
+  "description": "Express Middleware - Authorization Gate Keeper",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "middleware",
+    "authorization",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.22.2"
+  }
+}
